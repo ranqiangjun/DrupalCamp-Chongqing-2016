@@ -5,7 +5,7 @@
 |09:05 - 09:20|Opening Session|YueLin Feng/Qing ZHOU|Eastern Classroom Building 2-15|
 |09:20 - 10:00|Keynote: From Geek Comunities to IT Clusters|Enzo|Eastern Classroom Building 2-15|
 |10:00 - 10:40|Case Study: qingfan.net |Yuan FAN|Eastern Classroom Building 2-15|
-|10:40 - 11:00|Group Photo & Break	|N/A|Eastern Classroom Building 2-15|
+|10:40 - 11:00|Group Photo & Break	|N/A|New Classroom Building|
 |11:00 - 11:30|Application of Drupal and OSS in Medicine Industry|Vincent ZHANG|Eastern Classroom Building 2-15|
 |11:30 - 12:00|Drupal in Medical Lab Academy|Mingwei LIU|Eastern Classroom Building 2-15|
 |12:00 - 13:00|Lunch	|N/A	|No. 2 Dining Hall|

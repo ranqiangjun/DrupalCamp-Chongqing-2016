@@ -11,7 +11,7 @@
 |12:00 - 13:00|Lunch	|N/A	|No. 2 Dining Hall|
 |13:00 - 13:40|Drupal 8 Development Effective and Efficient with Drupal Console|Enzo, Jungle|Main venue|
 |13:00 - 13:40|Drupal and Big Data|	Kejun CUI|Branch venue|
-|13:50 - 14:30|How to Deal with High Concurrency|Keith|Main venue|
+|13:50 - 14:30|How to Deal with High Concurrency|Keith Yau|Main venue|
 |13:50 - 14:30|Drupal Performance Optimization in Action|Robbin ZHAO|Branch venue|
 |14:40 - 15:20|How to Train a Drupal Team Fast and Efficiently|Lugir|Main venue|
 |14:40 - 15:20|Drupal as Publishing System in Higher Education Intranet|Naijia LIU|Branch venue|

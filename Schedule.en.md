@@ -13,8 +13,8 @@
 |13:00 - 13:40|Drupal and Big Data|	Kejun CUI|Branch venue|
 |13:50 - 14:30|How to Deal with High Concurrency|Keith|Main venue|
 |13:50 - 14:30|Drupal Performance Optimization in Action|Robbin ZHAO|Branch venue|
-|14:40 - 15:20|Drupal as Publishing System in Higher Education Intranet|Naijia LIU|Main venue|
-|14:40 - 15:20|How to Train a Drupal Team Fast and Efficiently|Lugir|Branch venue|
+|14:40 - 15:20|How to Train a Drupal Team Fast and Efficiently|Lugir|Main venue|
+|14:40 - 15:20|Drupal as Publishing System in Higher Education Intranet|Naijia LIU|Branch venue|
 |15:20 - 15:40|Group Photo & Tea Break	|N/A|Main venue|
 |15:40 - 16:20|Drupal China Community Overview and Community Contribution|Jack|Main venue|
 |15:40 - 16:20|The Story Behind the ninghao.net|Hao WANG|Branch venue|

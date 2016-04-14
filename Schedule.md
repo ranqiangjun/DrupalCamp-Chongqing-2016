@@ -5,7 +5,7 @@
 |09:05 - 09:20|Opening Session|YueLin Feng/Qing ZHOU|Eastern Classroom Building 2-15|
 |09:20 - 10:00|Keynote: From Geek Comunities to IT Clusters|Enzo|Eastern Classroom Building 2-15|
 |10:00 - 10:40|Case Study: qingfan.net |Yuan FAN|Eastern Classroom Building 2-15|
-|10:40 - 11:00|Group Photo & Break |N/A|New Classroom Building|
+|10:40 - 11:00|Group Photo & Break |N/A|New Classroom Building Hall|
 |11:00 - 11:20|Drupal Chongqing & Jungle's First DrupalCon |Jungle, Mingwei LIU|Eastern Classroom Building 2-15|
 |11:20 - 11:40|Application of Drupal and OSS in Medicine Industry|Vincent ZHANG|Eastern Classroom Building 2-15|
 |11:40 - 12:00|Drupal in Medical Lab Academy|Mingwei LIU|Eastern Classroom Building 2-15|
@@ -16,7 +16,7 @@
 |13:50 - 14:30|Drupal Performance Optimization in Action|Robbin ZHAO|New Classroom Building 205|
 |14:40 - 15:20|How to Train a Drupal Team Fast and Efficiently|Lugir|Eastern Classroom Building 2-15|
 |14:40 - 15:20|Drupal as Publishing System in Higher Education Intranet|Naijia LIU|New Classroom Building 205|
-|15:20 - 15:40|Group Photo & Break	|N/A|Eastern Classroom Building 2-15|
+|15:20 - 15:40|Group Photo & Break	|N/A|New Classroom Building Hall|
 |15:40 - 16:20|Drupal China Community Overview and Community Contribution|Jack LIU|Eastern Classroom Building 2-15|
 |15:40 - 16:20|The Story Behind the ninghao.net|Hao WANG|New Classroom Building 205|
 |16:30 - 16:35|Cultural Activity	|N/A|	Eastern Classroom Building 2-15|

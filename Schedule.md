@@ -18,6 +18,6 @@
 |15:20 - 15:40|Group Photo & Break	|N/A|Eastern Classroom Building 2-15|
 |15:40 - 16:20|Drupal China Community Overview and Community Contribution|Jack LIU|Eastern Classroom Building 2-15|
 |15:40 - 16:20|The Story Behind the ninghao.net|Hao WANG|New Classroom Building 205|
-|16:20 - 16:25|Cultural Activity	|N/A|	Eastern Classroom Building 2-15|
-|16:25 - 17:00|Closing Session	|Meiwei LIU, Jungle|Main venue|
+|16:30 - 16:35|Cultural Activity	|N/A|	Eastern Classroom Building 2-15|
+|16:35 - 17:00|Closing Session	|Meiwei LIU, Jungle|Eastern Classroom Building 2-15|
 |18:00 - 23:59|After Party	|N/A|	WIP|
